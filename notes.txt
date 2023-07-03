@@ -1,0 +1,11 @@
+
+Steps to get from Resume Upload to DynamoDB:
+
+1. Accept input of resume, extract text
+
+2. Send to openAI with prompt prepended
+
+3. Format response and send to DynamoDB
+
+
+

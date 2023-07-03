@@ -1,0 +1,36 @@
+    {
+    "firstName": "",
+    "lastName": "",
+    "email": "",
+    "phone": "",
+    "address": "",
+    "city": "",
+    "state": "",
+    "zip": "",
+    "country": "",
+    "summary": "",
+    "workHistory": [
+      {
+        "facility": "",
+        "title": "",
+        "startDate": "date in MM/YYYY format",
+        "endDate": "date in MM/YYYY format",
+        "notes": ""
+      }
+    ],
+    "education": [
+        {
+            "school": "",
+            "degree": "",
+            "startDate": "date in MM/YYYY format",
+            "endDate": "date in MM/YYYY format",
+            "notes": ""
+        }
+    ]    
+}
+  
+
+
+
+
+

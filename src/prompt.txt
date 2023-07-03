@@ -1,0 +1,83 @@
+Convert this Registered Nurse resume into JSON format. 
+Ignore anything that is not related to nursing or healthcare
+Main object name is 'candidate'
+Here is the json schema to follow:
+
+    {
+    "firstName": "",
+    "lastName": "",
+    "email": "",
+    "phone": "",
+    "address": "",
+    "city": "",
+    "state": "",
+    "zip": "",
+    "country": "",
+    "summary": "",
+    "workHistory": [
+      {
+        "facility": "",
+        "title": "",
+        "startDate": "date in MM/YYYY format",
+        "endDate": "date in MM/YYYY format",
+        "notes": ""
+      }
+    ],
+    "education": [
+        {
+            "school": "",
+            "degree": "",
+            "startDate": "date in MM/YYYY format",
+            "endDate": "date in MM/YYYY format",
+            "notes": ""
+        }
+    ]    
+}
+  
+Here is the resume:
+
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+Task: Convert a Registered Nurse resume to JSON format. Ignore any attributes that are not related to nursing or healthcare
+
+Description: Convert the attached resume to JSON format using the following schema:
+
+{
+  "firstName": "",
+  "lastName": "",
+  "email": "",
+  "phone": "",
+  "address": "",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "country": "",
+  "summary": "",
+  "workHistory": [
+    {
+      "facility": "",
+      "title": "",
+      "startDate": "date",
+      "endDate": "date",
+      "notes": ""
+    }
+  ],
+  "education": [
+    {
+      "school": "",
+      "degree": "",
+      "startDate": "date",
+      "endDate": "date",
+      "notes": ""
+    }
+  ]    
+}

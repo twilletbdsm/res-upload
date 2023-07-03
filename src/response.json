@@ -1,0 +1,52 @@
+{
+    "name": "Channing Bessire",
+    "email": "bchanning@gmail.com",
+    "phone": "615-663-3584",
+    "education": [
+        {
+            "school": "University of Mississippi",
+            "degree": "Bachelor of Science in Nursing",
+            "year": "2003"
+        }
+    ],
+    "certifications": [
+        "Advanced Cardiovascular Life Support (ACLS)",
+        "Certified Pulmonary Resuscitation",
+        "Certified Nonviolent Crisis Intervention",
+        "Certified Pediatric Advanced Cardiovascular Life Support (PALS)",
+        "Certified Institutional Review Board"
+    ],
+    "professionalMembership": [
+        "Member of the International Nurses Association",
+        "Mississippi Nursing Association",
+        "Member of Delta Delta Delta sorority"
+    ],
+    "awards": [
+        "Heart Saver Award — American Heart Association",
+        "Cambridge Who's Who Aware",
+        "University of Mississippi Chancellor's Honor Roll",
+        "Sigma Theta Tau National Honor Society",
+        "Golden Key national Honor Society",
+        "Alpha Lambda Delta National Honor Society"
+    ],
+    "experience": [
+        {
+            "employer": "CAMP MEDOLARK/ TRAVEL ASSIGNMENT",
+            "position": "Utilization Review Nurse",
+            "dates": "2006-2013",
+            "description": "Issued by all managed care, contracted, commercial, and Medicare Managed Care payers. Conducted retro authorizations based on medical records and communication with physicians and other care providers/departments of the hospital. Responded to level of care denials and Medical Necessity denials through formal written appeals. Prompted for documentation in chart to clarify diagnoses. Determined appropriateness and medical necessity of patient admissions, continued hospital stay, and use of ancillary services. Ability to read payer clinical bulletins and translate back to the procedures and diagnosis billed for."
+        },
+        {
+            "employer": "VANDERBILT MEDICAL CENTER",
+            "position": "Staff RN",
+            "dates": "2003-2006",
+            "description": "2003-2004 Staff RN Surgical Intensive Care Unit Full-Time Assessed, diagnosed, planned, treated and evaluated patients requiring intensive and intermediate care. 2004-2006 Staff RN Cardiovascular Medical and Surgical Step-down Unit. Full Time 04-05, PRN 05-06"
+        },
+        {
+            "employer": "UROLOGY ASSOCIATES",
+            "position": "PRN Staff RN",
+            "dates": "2005-2006",
+            "description": "for preoperative / recovery room"
+        }
+    ]
+}
